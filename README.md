@@ -10,8 +10,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 **Engenheiro Civil** com transição para a área de tecnologia.
-- 📘 **Pós-graduando em Ciência de Dados** – FACENS (2025–2026).
-- 🧑‍🎓 **Graduando em Ciência da Computação** – FMU | FIAM-FAAM.
+- 🧑‍🎓 **Cursando 2° SEMESTRE em Ciência da Computação** – FMU | FIAM-FAAM.
 - 🧪 Experiência prática com **projetos de dados**, APIs em **Python**, backend com **FastAPI**, e aplicações em **Java**.
 - 👨‍🏫 Participante do programa **"Trabalhando desde o primeiro semestre"** na FMU.
 
