@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou o José Anderson! 👋</h1>
 
 <p align="center">
-  🔍 Apaixonado por tecnologia, dados e desenvolvimento de soluções inteligentes.<br>
-  🎯 Buscando oportunidades como Cientista de Dados Júnior, Analista de Dados Júnior ou Desenvolvedor Júnior (Python/Java).
+  🧠 Estudante de <b>Ciência da Computação</b> (2º semestre – FMU), aprofundando meus conhecimentos em programação, automação e ciência de dados.<br>
+  📚 Atualmente cursando o programa <b>Google IT Automation with Python</b> (Coursera) e o curso <b>Introduction to Computer Science and Programming Using Python</b> (MITx | edX).<br>
+  📈 Compartilho aqui meus projetos em <b>Python</b>, <b>Java</b> e <b>Análise de Dados</b>, sempre com foco em aprendizado contínuo e impacto real.
 </p>
 
 ---
